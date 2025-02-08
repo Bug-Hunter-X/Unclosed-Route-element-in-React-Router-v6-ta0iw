@@ -1,0 +1,1 @@
+This repository contains a minimal reproducible example demonstrating an uncommon error in React Router v6. The error occurs when a nested Route is improperly closed, resulting in a runtime error. The solution demonstrates the correct way to structure nested routes.
